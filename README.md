@@ -117,7 +117,13 @@ The FIR filter was able to produce smooth output values that matched the expecte
 * How to use Verilog to model arithmetic operations
 * How to write and analyze a proper testbench for verification
 
+Output1:
 
+  ![Image](https://github.com/user-attachments/assets/ad0e4af2-c963-4d12-9851-5eaf0b6597b6)
+
+Output2:
+
+  
 What I Learned(Conclusion):
 
 This project helped me bridge the gap between theoretical DSP concepts and practical hardware implementation. I got better at structuring Verilog code, handling clocked logic, managing signal delays, and writing testbenches for verification. It also deepened my understanding of how filtering works at the digital hardware level.
