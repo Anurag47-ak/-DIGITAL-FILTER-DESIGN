@@ -112,21 +112,19 @@ I wrote a Verilog testbench that provides a sequence of input samples to the fil
 
 Performance Analysis:
 The FIR filter was able to produce smooth output values that matched the expected results from manual convolution. The use of fixed coefficients made the behavior predictable and easier to debug. The design was simple, reliable, and met the real-time processing requirements. This small project helped me understand:
-
 * How digital filters are implemented in hardware
 * How to use Verilog to model arithmetic operations
 * How to write and analyze a proper testbench for verification
 
-Output1:
+Output(Hexadecimal):
 
   ![Image](https://github.com/user-attachments/assets/ad0e4af2-c963-4d12-9851-5eaf0b6597b6)
 
-Output2:
+Output(Binary):
 
   ![Image](https://github.com/user-attachments/assets/a431015e-7d6a-4507-9b95-52474ba4cfc1)
   
 What I Learned(Conclusion):
-
 This project helped me bridge the gap between theoretical DSP concepts and practical hardware implementation. I got better at structuring Verilog code, handling clocked logic, managing signal delays, and writing testbenches for verification. It also deepened my understanding of how filtering works at the digital hardware level.
 
 
