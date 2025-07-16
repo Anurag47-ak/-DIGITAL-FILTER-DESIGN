@@ -123,6 +123,7 @@ Output1:
 
 Output2:
 
+  ![Image](https://github.com/user-attachments/assets/a431015e-7d6a-4507-9b95-52474ba4cfc1)
   
 What I Learned(Conclusion):
 
